@@ -1,0 +1,1 @@
+Some dumb C#/mysql school project made by [@RedfoxxAquario](https://github.com/RedfoxxAquario) and me during database course. (I mean, when there's a python script in a C# project for generating random values, you know something, somewhere in my CS class, has gone terribly wrong)

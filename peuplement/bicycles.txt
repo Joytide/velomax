@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kilimandjaro
+NorthPole
+MontBlanc
+Hooligan
+Orléans
+Orléans
+BlueJay
+BlueJay
+Trail Explorer
+Trail Explorer
+Night Hawk
+Tierra Verde
+Tierra Verde
+Mud Zinger I
+Mud Zinger II
+
+
+Adultes
+Adultes
+Jeunes
+Jeunes
+Hommes
+Dames
+Hommes
+Dames
+Filles
+Garçons
+Jeunes
+Hommes
+Dames
+Jeunes
+Adultes
+
+
+569
+329
+399
+199
+229
+229
+349
+349
+129
+129
+189
+199
+199
+279
+359 
+
+VTT
+VTT
+VTT
+VTT
+Vélo de course
+Vélo de course
+Vélo de course
+Vélo de course
+Classique
+Classique
+Classique
+Classique
+Classique
+BMX
+BMX
+
+
+for i in range(len(no)):
+...     dic[no[i]]={"bname":name[i],"size":size[i],"cost":price[i],"type":type[i]}
+
+>>> dic
+{101: {'bname': 'Kilimandjaro', 'size': 'Adultes', 'cost': '569', 'type': 'VTT'}, 102: {'bname': 'NorthPole', 'size': 'Adultes', 'cost': '329', 'type': 'VTT'}, 103: {'bname': 'MontBlanc', 'size': 'Jeunes', 'cost': '399', 'type': 'VTT'}, 104: {'bname': 'Hooligan', 'size': 'Jeunes', 'cost': '199', 'type': 'VTT'}, 105: {'bname': 'Orléans', 'size': 'Hommes', 'cost': '229', 'type': 'Vélo de course'}, 106: {'bname': 'Orléans', 'size': 'Dames', 'cost': '229', 'type': 'Vélo de course'}, 107: {'bname': 'BlueJay', 'size': 'Hommes', 'cost': '349', 'type': 'Vélo de course'}, 108: {'bname': 'BlueJay', 'size': 'Dames', 'cost': '349', 'type': 'Vélo de course'}, 109: {'bname': 'Trail Explorer', 'size': 'Filles', 'cost': '129', 'type': 'Classique'}, 110: {'bname': 'Trail Explorer', 'size': 'Garçons', 'cost': '129', 'type': 'Classique'}, 111: {'bname': 'Night Hawk', 'size': 'Jeunes', 'cost': '189', 'type': 'Classique'}, 112: {'bname': 'Tierra Verde', 'size': 'Hommes', 'cost': '199', 'type': 'Classique'}, 113: {'bname': 'Tierra Verde', 'size': 'Dames', 'cost': '199', 'type': 'Classique'}, 114: {'bname': 'Mud Zinger I', 'size': 'Jeunes', 'cost': '279', 'type': 'BMX'}, 115: {'bname': 'Mud Zinger II', 'size': 'Adultes', 'cost': '359 ', 'type': 'BMX'}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
